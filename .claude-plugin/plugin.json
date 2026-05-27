@@ -1,5 +1,8 @@
 {
   "name": "dan-skills",
+  "version": "1.0.0",
+  "description": "실제 작업에 쓰기 위한 Claude Code 스킬 모음. 작고 조합 가능하며, 중요한 판단은 개발자에게 남기도록 설계합니다.",
+  "author": { "name": "geonhwiii", "email": "gunw.dan@gmail.com" },
   "skills": [
     "./skills/engineering/growth-guardian"
   ]
