@@ -9,14 +9,13 @@
 
 ## 설치
 
-이 저장소를 하나의 플러그인으로 설치합니다.
+**원격 설치** — 어느 프로젝트에서나 한 번만 실행합니다.
 
 ```shell
-/plugin install geonhwiii/skills
-/reload-plugins
+npx skills@latest add geonhwiii/skills
 ```
 
-## 왜 만들었나
+## 목적
 
 Agent 스킬은 거대한 프로세스를 대신할 때보다, 반복 가능한 작은 워크플로를
 담을 때 가장 유용합니다. 이 저장소는 그런 워크플로를 쉽게 고치고 믿고 쓸 수
